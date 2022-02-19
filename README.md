@@ -1,6 +1,7 @@
 # Desafio
 
 QUESTÃO 01
+A questão apresenta uma situação onde deve-se lançar uma entrada indicado a quantidade de degraus que se econcontra na realidade decorrida. O código seguinte traz uma linguagem JAVA que implicar em uma situação de entrada de valor e resulta em um valor impresso em tela.
 Scanner entrada = new Scanner(System.in);
 List<String> degraus = new ArrayList<>();
 System.out.print("Digite a quantidade de vezes: ");
@@ -13,6 +14,7 @@ System.out.println(d);
 }
                                                  
 QUESTÃO 02
+A questão solicitar um senha com requisitos minimos, onde a senha deve atender a todos os pedidos do código. Caso não seja identificado todos os requisitos a senha faz um retorno negativo ao operante/introdutor e pedi para o mesmo lançar uma nova senha de acordo com os padrões solicitados.                                               
 public class SenhaForte {
 public static void main(String[] args) {
 boolean invalido = true;
@@ -34,6 +36,7 @@ System.out.println("Senha fraca! não atende ao requisitos mminimo pedidos");
 }
                                                  
 QUESTÃO 03
+A questão faz uma requisição de sub código onde o mesmo solicita os anagramas que se encontra em uma determinada classe do código.                                                 
 public class Anagrama {
 public static void main(String[] args) {
 Scanner scan = new Scanner(System.in);

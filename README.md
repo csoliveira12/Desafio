@@ -1,5 +1,7 @@
 # Desafio
 
+TODO O CÓDIGO FOI DESENVOLVIDO EM JAVA (NETBINS/JDK 11)
+
 QUESTÃO 01
 A questão apresenta uma situação onde deve-se lançar uma entrada indicado a quantidade de degraus que se econcontra na realidade decorrida. O código seguinte traz uma linguagem JAVA que implicar em uma situação de entrada de valor e resulta em um valor impresso em tela.
 Scanner entrada = new Scanner(System.in);
